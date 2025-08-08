@@ -1,6 +1,6 @@
 # ♠️♥️ Klondike Solitaire ♣️♦️
 
-This project is a C++ implementation of the classic Klondike Solitaire card game.
+This project is a C++ implementation of the classic Klondike Solitaire card game executed with the help of multiple data structures.
 
 ---
 
